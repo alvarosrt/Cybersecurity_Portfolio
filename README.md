@@ -1,4 +1,4 @@
-# Alvaro Salort - Cybersecurity Portfolio
+# Alvaro Salort - Cybersecurity Portfolio 😎
 
 Welcome to my cybersecurity portfolio! I am Alvaro Salort, a passionate cybersecurity professional with expertise in defensive cybersecurity, incident response, and vulnerability management. I am currently exploring various facets of cybersecurity to contribute effectively to secure digital ecosystems.
 
@@ -8,7 +8,7 @@ IT professional with Help Desk experience, focused on technical troubleshooting 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alvarosalort/).
 
-## Project Overview
+## Project Overview 🚀 
 
 This portfolio showcases my skills and hands-on experience with a range of cybersecurity tools and methodologies. Below is the structured outline of the portfolio:
 
@@ -76,7 +76,7 @@ Analysis and application of STRIDE and MITRE ATT&CK frameworks for effective ris
 - **STRIDE**: Threat modeling and risk analysis using the STRIDE framework.
 - **MITRE ATT&CK**: Tools and techniques for applying MITRE ATT&CK framework in threat intelligence and response.
 
-## Project Structure
+## Project Structure 🥷
 
 ```
 Portfolio/
