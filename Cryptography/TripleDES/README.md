@@ -1,5 +1,12 @@
 # TripleDES Encryption and Decryption
 
+### What is TripleDES Encryption and how does it work?
+
+Derived from the famous Data Encryption Standard (DES), TripleDES (Triple Data Encryption Standard) is a cryptographic cipher. It is the most popular since the late 1990s, but it gradually went out of the market due to the introduction of safer algorithms like XChaCha20 and AES-256. TripleDES, which will be retired by 2023, is still included in some old systems. TripleDES is very important to understand, when starting with the DES algorithm, because it is the basis for anything very widely studied.
+
+TripleDES applies the DES cipher algorithm three times to each data block, using either two or three unique keys, providing significantly stronger encryption than DES alone. In the one-time pad technology, the original information will be combined with a one-time pad, then XOR the two, which is further enciphered in TripleDES with typically the same key.
+
+Building on the foundation of the widely studied DES algorithm, TripleDES remains important to understand its functionality and historical significance in the field of cryptography.
 
 ## Usage Scenario: Protecting Sensitive Data
 
